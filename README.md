@@ -7,11 +7,11 @@ For storing the data on local we can use ROOM as a database which is a light wei
 
 
 # Library Used
-Here I have used few Native libraries which Andorid provided
-1. Hilt- Dependacy Injection
+Here I have used few Native libraries which Android provided
+1. Hilt- Dependency Injection
 2. Jetpack Compose- Declarative UI toolkit
 3. Kotlin-ktx libraries
 
 # Note
-It is recomended to use latest android studio and latest Gradle plugin to run this application. As the project is using all the latest libraries from Android and google. 
+It is recommended to use latest android studio and latest Gradle plugin to run this application. As the project is using all the latest libraries from Android and google. 
 
